@@ -39,4 +39,4 @@ I am deeply passionate about Artificial Intelligence, specifically focusing on D
 ---
 
 ### ⚡ Fun Fact
-When I'm not training models or debugging code, you can probably find me supporting Real Madrid! ⚽️👑
+When I'm not training models or debugging code, you can probably find me supporting and watching Real Madrid! ⚽️👑
