@@ -158,7 +158,7 @@ My work focuses on building practical applications, experimenting with machine l
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/theayon7/theayon7/output/github-snake.svg">
+<img src="https://raw.githubusercontent.com/theayon7/theayon7/output/github-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
