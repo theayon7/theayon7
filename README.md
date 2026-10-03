@@ -1,136 +1,191 @@
 <div align="center">
 
-# hey, i'm ayon 👋
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+# Hi, I'm Ayon Adhikary 👋
 
 ### `AI/ML • Computer Vision • Software Engineering`
 
-🇧🇩 CS Graduate @ East West University
+<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="420">
 
-**building → breaking → debugging → repeating**
+<p>
+Computer Science Graduate from East West University 🇧🇩
+</p>
 
-<br>
+<p>
+I build intelligent systems, experiment with AI, and turn ideas into working software.
+</p>
 
+<p>
 <a href="https://github.com/theayon7">
-  <img src="https://img.shields.io/badge/GitHub-theayon7-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-ayan-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</p>
 
 </div>
 
 ---
 
-## 🧠 a little about me
+## 👨‍💻 About Me
+
+I'm a Computer Science graduate interested in **Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering**.
+
+My work focuses on building practical applications, experimenting with machine learning models, and developing systems that solve real-world problems.
 
 ```text
-🎓 CS Graduate
-🤖 AI / ML enthusiast
-👁️ Computer Vision enjoyer
+🎓 Computer Science Graduate
+🤖 AI / Machine Learning
+👁️ Computer Vision
 💻 Software Engineering
-📊 Data & intelligent systems
+📊 Data & Intelligent Systems
 🇧🇩 Bangladesh
 ```
 
-I like building things that involve **AI, software, data and a questionable amount of debugging.**
+---
 
-Currently exploring:
+## 🧰 Tech Stack
 
-`Machine Learning` `Computer Vision` `Deep Learning` `Full-Stack Development`
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,kotlin" />
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,mongodb,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,kaggle" />
+
+</div>
 
 ---
 
-## ⚡ tech i've touched
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,kotlin,pytorch,tensorflow,opencv,nodejs,express,react,mongodb,mysql,git,github,kaggle,vscode&perline=9" />
-
-</p>
-
----
-
-## 🚀 things i've built
+## 🚀 Featured Projects
 
 ### 🧠 Intelligent Software Defect Prediction
 
-Graph-based defect prediction using **GAT + Explainable AI**.
+**Graph-based Software Defect Prediction & Automated Software Metrics Dataset Generation**
+
+* GAT-based software defect prediction
+* Automated C/C++ software metrics extraction
+* Explainable AI with SHAP
+* Streamlit-based prediction dashboard
+* NASA/PROMISE software datasets
+
+---
 
 ### 🌡️ Thermal Object Detection
 
-**FLIR thermal dataset + YOLO + Self-Supervised Learning** for object detection.
+**Thermal Object Detection using YOLO & Self-Supervised Learning**
+
+* FLIR thermal imagery
+* YOLO-based object detection
+* Self-Supervised Learning
+* Computer Vision
+* Thermal video object tracking
+
+---
 
 ### ⚡ LiveBid
 
-Real-time bidding platform built with **MERN + Socket.IO**.
+**Real-Time Online Bidding Platform**
+
+* MERN Stack
+* Socket.IO real-time communication
+* Authentication
+* Bid history
+* Wishlist system
+* Gemini API chatbot
+* Automated scheduled tasks
+
+---
+
+### 👁️ Aerial Vehicle Detection
+
+**Self-Supervised Learning for Aerial Object Detection**
+
+* Computer Vision
+* Self-Supervised Learning
+* Representation Learning
+* Object Detection
+
+---
 
 ### 🌐 Apex University Network
 
-8-campus network design using **Packet Tracer, OSPF, Static Routing & DHCP**.
+**Multi-Campus University Network Design**
 
-### 🖥️ Portfolio Generator
-
-Dynamic portfolio generator using **HTML + CSS + JavaScript**.
-
-### 🧩 Competitive Programming
-
-Solutions from **Codeforces + VJudge**.
+* Cisco Packet Tracer
+* OSPF
+* Routing
+* DHCP
+* Network architecture
 
 ---
 
-## 📊 github.exe
+## 🏆 Achievements & Activities
+
+* 🥇 **National Telco Warfare Data War 2024** — Winner
+* 💻 **Programming Hero Hackathon 2024** — Participant
+* 🤖 **Nascenia AI Hackathon 2026** — Participant
+* 📡 Member — **EWU Telecommunication Club**
+* 🤖 Member — **EWU Robotics Club**
+* 🎨 **Fundamentals of UI/UX Design** — Creative IT Institute
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theayon7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=theayon7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theayon7&hide_border=true&theme=transparent" height="170">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=theayon7&hide_border=true&theme=transparent">
 
 </div>
 
 ---
 
-## 🐍 contribution snake
+## 🐍 My Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/theayon7/theayon7/output/github-snake.svg" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/theayon7/theayon7/output/github-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-## 🎯 currently
+## 📌 Currently
 
 ```text
-learning AI
+Learning AI
       ↓
-building projects
+Building projects
       ↓
-debugging at 2AM
+Experimenting with models
       ↓
-"why isn't this working?"
+Debugging at 2 AM
       ↓
-stackoverflow
+It finally works
       ↓
-it works 🎉
-      ↓
-repeat
+Build something better
 ```
 
 ---
 
 <div align="center">
 
-### thanks for stopping by 👀
+### Let's build something cool. 🚀
 
-`code • coffee • AI • repeat`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=theayon7&style=flat-square&color=blueviolet" />
+**AI • ML • Computer Vision • Software Engineering**
 
 </div>
