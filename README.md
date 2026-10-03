@@ -1,40 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Ayon%20Adhikary&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=ML%20%C2%B7%20Computer%20Architecture%20%C2%B7%20Networks%20%C2%B7%20Web&descAlignY=58" width="100%"/>
+# hey, i'm ayon 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=CSE+%40+East+West+University;Machine+Learning+%7C+Computer+Vision+%7C+XAI;Logic+design%2C+networks%2C+databases%2C+Android." />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### `AI/ML • Computer Vision • Software Engineering`
 
-</div>
+🇧🇩 CS Graduate @ East West University
 
-### 🔭 Featured
+**building → breaking → debugging → repeating**
 
-<div align="center">
+<br>
 
-[![portfolio-generator](https://github-readme-stats.vercel.app/api/pin/?username=theayon7&repo=portfolio-generator&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/theayon7/portfolio-generator)
-[![branch-predictor](https://github-readme-stats.vercel.app/api/pin/?username=theayon7&repo=3-Bit-Saturating-Counter-Branch-Predictor-Using-C&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/theayon7/3-Bit-Saturating-Counter-Branch-Predictor-Using-C)
-[![apex-network](https://github-readme-stats.vercel.app/api/pin/?username=theayon7&repo=Apex-University-Network-Design&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/theayon7/Apex-University-Network-Design)
+<a href="https://github.com/theayon7">
+  <img src="https://img.shields.io/badge/GitHub-theayon7-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-ayan-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
 </div>
 
-### 🧠 What I work on
-- **ML / CV:** thermal infrared object detection (YOLO), explainable defect prediction
-- **Systems:** 3-bit saturating counter branch predictor in C
-- **Networking:** 8-campus Packet Tracer design with OSPF, static routing, DHCP
-- **Web:** dynamic portfolio generator (HTML, CSS, JS)
-- **Problem solving:** Codeforces and Vjudge contest solutions
+---
+
+## 🧠 a little about me
+
+```text
+🎓 CS Graduate
+🤖 AI / ML enthusiast
+👁️ Computer Vision enjoyer
+💻 Software Engineering
+📊 Data & intelligent systems
+🇧🇩 Bangladesh
+```
+
+I like building things that involve **AI, software, data and a questionable amount of debugging.**
+
+Currently exploring:
+
+`Machine Learning` `Computer Vision` `Deep Learning` `Full-Stack Development`
+
+---
+
+## ⚡ tech i've touched
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,kotlin,pytorch,tensorflow,opencv,nodejs,express,react,mongodb,mysql,git,github,kaggle,vscode&perline=9" />
+
+</p>
+
+---
+
+## 🚀 things i've built
+
+### 🧠 Intelligent Software Defect Prediction
+
+Graph-based defect prediction using **GAT + Explainable AI**.
+
+### 🌡️ Thermal Object Detection
+
+**FLIR thermal dataset + YOLO + Self-Supervised Learning** for object detection.
+
+### ⚡ LiveBid
+
+Real-time bidding platform built with **MERN + Socket.IO**.
+
+### 🌐 Apex University Network
+
+8-campus network design using **Packet Tracer, OSPF, Static Routing & DHCP**.
+
+### 🖥️ Portfolio Generator
+
+Dynamic portfolio generator using **HTML + CSS + JavaScript**.
+
+### 🧩 Competitive Programming
+
+Solutions from **Codeforces + VJudge**.
+
+---
+
+## 📊 github.exe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=theayon7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayon7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=theayon7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theayon7&hide_border=true&theme=transparent" height="170">
+
+</div>
+
+---
+
+## 🐍 contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/theayon7/theayon7/output/github-snake.svg" alt="GitHub contribution snake">
+
+</div>
+
+---
+
+## 🎯 currently
+
+```text
+learning AI
+      ↓
+building projects
+      ↓
+debugging at 2AM
+      ↓
+"why isn't this working?"
+      ↓
+stackoverflow
+      ↓
+it works 🎉
+      ↓
+repeat
+```
+
+---
+
+<div align="center">
+
+### thanks for stopping by 👀
+
+`code • coffee • AI • repeat`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=theayon7&style=flat-square&color=blueviolet" />
 
 </div>
