@@ -165,7 +165,6 @@
 
 | 🏅 | Achievement | Year |
 |:---:|:---|:---:|
-| 🥇 | **National Telco Warfare Data War** — Winner | 2024 |
 | 🤖 | **Nascenia AI Hackathon** — Participant | 2026 |
 | 💻 | **Programming Hero Hackathon** — Participant | 2024 |
 | 📡 | Member — **EWU Telecommunication Club** | |
