@@ -21,9 +21,7 @@
 ```
  🎓  CS Graduate @ East West University, Bangladesh
  🤖  AI Engineer — building with ML, DL & Computer Vision
- 🏆  Winner — National Telco Warfare Data War 2024
  🔬  Research — Graph Neural Networks, Self-Supervised Learning
- ⚡  Fun fact — I debug at 2 AM and call it "deep learning"
 ```
 
 </div>
